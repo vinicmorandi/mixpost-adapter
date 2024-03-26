@@ -1,0 +1,25 @@
+<?php
+
+return [
+  'add_user' => 'Add user',
+  'team' => 'Team',
+  'add_user_workspace' => 'Add new user to this workspace',
+  'edit_role_for' => 'Edit role for',
+  'change_role' => 'Change role',
+  'can_edit_everything' => 'Can access and edit everything on workspace',
+  'edit_exceptions' => 'Can access and edit everything except configuration section.',
+  'user_attached' => 'User attached',
+  'attach_user' => 'Attach user',
+  'user_detached' => 'User detached',
+  'role_updated' => 'Role updated',
+  'role' => 'Role',
+  'edit_role' => 'Edit role',
+  'edit_role_on' => ' Edit role on',
+  'attach' => 'Attach',
+  'attached_at' => 'Attached At',
+  'detach_workspace' => 'Detach workspace',
+  'attach_workspace' => 'Attach workspace',
+  'detach_confirm' => 'Are you sure you want to detach <strong>:workspace</strong> from <strong>:user</strong>?',
+  'admin' => 'Admin',
+  'member' => 'Member',
+];

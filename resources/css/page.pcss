@@ -1,0 +1,21 @@
+.page {
+    img {
+        @apply max-w-full inline-block leading-none;
+
+        &[data-display="inline"] {
+            @apply inline;
+        }
+
+        &[data-display="center"] {
+            @apply block mx-auto;
+        }
+
+        &[data-display="left"] {
+            @apply float-left ml-0 mr-md;
+        }
+
+        &[data-display="right"] {
+            @apply float-right ml-md mr-0
+        }
+    }
+}

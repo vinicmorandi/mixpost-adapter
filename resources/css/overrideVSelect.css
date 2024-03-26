@@ -1,0 +1,15 @@
+:root {
+    --vs-dropdown-max-height: 185px;
+}
+
+.vs__dropdown-toggle {
+    @apply p-1.5 rounded-md border border-solid border-stone-600;
+}
+
+.vs__dropdown-option--highlight {
+    @apply bg-primary-500 text-white;
+}
+
+.vs__dropdown-option {
+    white-space: inherit;
+}

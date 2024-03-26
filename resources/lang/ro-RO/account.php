@@ -1,0 +1,26 @@
+<?php
+
+return [
+  'accounts' => 'Conturi sociale',
+  'account_updated' => 'Contul a fost actualizat',
+  'account_reauthenticate' => 'Contul nu poate fi actualizat. Reconectați-vă contul.',
+  'connect_social_account' => 'Conectați un cont social pe care doriți să îl gestionați.',
+  'account_deleted' => 'Cont șters',
+  'add_account' => 'Adaugă cont | Adaugă conturi',
+  'edit_suffix' => 'Editați sufixul',
+  'edit_account_suffix' => 'Editați sufixul contului',
+  'enter_suffix' => 'Introduceți sufixul',
+  'added' => 'Adăugat:',
+  'delete_account' => 'Șterge cont',
+  'confirm_delete_account' => 'Sigur doriți să ștergeți acest cont?',
+  'account_not_updated' => 'Contul nu poate fi actualizat.',
+  'account_no_entities' => 'Contul nu are entități.',
+  'choose_entity' => 'Alege entitatea',
+  'account_entities' => 'Entități ale contului',
+  'select_the_social_entities' => 'Selectați entitățile sociale pe care doriți să le conectați',
+  'connected' => 'Conectat',
+  'choose' => 'Alegeți',
+  'access_token_expired' => 'Indicatorul de acces a expirat. Reconectați-vă contul.',
+  'unauthorized' => 'Neautorizat',
+  'add_social_account' => 'Nu aveți un cont social, vă rugăm să adăugați cel puțin unul.',
+];

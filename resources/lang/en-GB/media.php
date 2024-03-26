@@ -1,0 +1,28 @@
+<?php
+
+return [
+  'media_library' => 'Media Library',
+  'uploads' => 'Upload',
+  'stock' => 'Stock Photos',
+  'gifs' => 'GIFs',
+  'library' => 'Library',
+  'create_post' => 'Create Post',
+  'delete_media' => 'Delete media',
+  'do_you_want_delete' => 'Are you sure you want to delete selected media items?',
+  'add_media' => 'Add Media',
+  'downloading' => 'Downloading...',
+  'no_gifs_found' => 'No GIFs found.',
+  'click_configure' => 'Click to configure',
+  'no_images_found' => 'No images found.',
+  'drag_drop_files' => 'Drag & drop files here, or',
+  'error_uploading_media' => 'Error uploading media.',
+  'error_retrieving_media' => 'Error retrieving media. Try again!',
+  'error_downloading_media' => 'Error downloading media. Try again!',
+  'error_deleting_media' => 'Error deleting media. Try again!',
+  'author' => 'Author',
+  'image_source' => 'Image source',
+  'aspect_ratio_range' => 'Aspect ratio must be between :min and :max.',
+  'resolution_range' => 'Resolution must be minimum :min x :max px. Recommended is :recommended_min x :recommended_max px.',
+  'duration_range' => 'Duration must be between :min and :max seconds.',
+  'frame_rate_range' => 'Frame rate must be between :min and :max frames per second.',
+];

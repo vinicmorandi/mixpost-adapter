@@ -1,0 +1,7 @@
+.v-popper--theme-tooltip .v-popper__inner {
+    @apply bg-alert text-alert-context rounded-md border-none max-w-[300px];
+}
+
+.v-popper--theme-tooltip .v-popper__arrow-outer {
+    @apply border-alert;
+}

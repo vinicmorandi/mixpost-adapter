@@ -1,0 +1,7 @@
+:root {
+    --vs-disabled-bg: theme('colors.stone.500');
+}
+
+.v-popper--theme-dropdown .v-popper__inner {
+    @apply rounded-md border border-gray-200 shadow-mix;
+}

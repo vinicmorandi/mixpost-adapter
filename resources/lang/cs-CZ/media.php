@@ -1,0 +1,28 @@
+<?php
+
+return [
+  'media_library' => 'Knihovna médií',
+  'uploads' => 'Nahrát',
+  'stock' => 'Stock fotografie',
+  'gifs' => 'GIFy',
+  'library' => 'Knihovna',
+  'create_post' => 'Vytvořit příspěvek',
+  'delete_media' => 'Odstranění médií',
+  'do_you_want_delete' => 'Opravdu chcete odstranit vybrané položky médií?',
+  'add_media' => 'Přidat média',
+  'downloading' => 'Stahování...',
+  'no_gifs_found' => 'Nebyly nalezeny žádné GIFy.',
+  'click_configure' => 'Klikněte pro konfiguraci',
+  'no_images_found' => 'Nebyly nalezeny žádné obrázky.',
+  'drag_drop_files' => 'Přetáhněte sem soubory nebo',
+  'error_uploading_media' => 'Chyba při nahrávání médií.',
+  'error_retrieving_media' => 'Chyba při načítání média. Zkuste to znovu!',
+  'error_downloading_media' => 'Chyba při stahování médií. Zkuste to znovu!',
+  'error_deleting_media' => 'Chyba při mazání média. Zkuste to znovu!',
+  'author' => 'Autor',
+  'image_source' => 'Zdroj obrázku',
+  'aspect_ratio_range' => 'Poměr stran musí být mezi :min a :max.',
+  'resolution_range' => 'Rozlišení musí být minimálně :min x :max px. Doporučené rozlišení je :recommended_min x :recommended_max px.',
+  'duration_range' => 'Doba trvání musí být mezi :min a :max sekundami.',
+  'frame_rate_range' => 'Snímková frekvence musí být mezi :min a :max snímků za sekundu.',
+];

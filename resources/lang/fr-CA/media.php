@@ -1,0 +1,28 @@
+<?php
+
+return [
+  'media_library' => 'Médiathèque',
+  'uploads' => 'Télécharger',
+  'stock' => 'Banques de photos',
+  'gifs' => 'GIFs',
+  'library' => 'Bibliothèque',
+  'create_post' => 'Créer une publication',
+  'delete_media' => 'Supprimer le média',
+  'do_you_want_delete' => 'Êtes-vous sûr de vouloir supprimer les éléments multimédias sélectionnés?',
+  'add_media' => 'Ajouter un média',
+  'downloading' => 'Téléchargement...',
+  'no_gifs_found' => 'Aucun GIF trouvé.',
+  'click_configure' => 'Cliquez pour configurer',
+  'no_images_found' => 'Aucune image trouvée.',
+  'drag_drop_files' => 'Faites glisser et déposez les fichiers ici, ou',
+  'error_uploading_media' => 'Erreur lors du téléchargement du média.',
+  'error_retrieving_media' => 'Erreur lors de la récupération du média. Réessayez !',
+  'error_downloading_media' => 'Erreur lors du téléchargement du média. Réessayez !',
+  'error_deleting_media' => 'Erreur lors de la suppression du média. Réessayez !',
+  'author' => 'Auteur',
+  'image_source' => 'Source de l\'image',
+  'aspect_ratio_range' => 'Le rapport hauteur/largeur doit être compris entre :min et :max.',
+  'resolution_range' => 'La résolution doit être minimale de :min x :max px. La valeur recommandée est :recommended_min x :recommended_max px.',
+  'duration_range' => 'La durée doit être comprise entre :min et :max secondes.',
+  'frame_rate_range' => 'La fréquence d\'images doit être comprise entre :min et :max images par seconde.',
+];

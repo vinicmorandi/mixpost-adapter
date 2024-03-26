@@ -1,0 +1,28 @@
+<?php
+
+return [
+  'media_library' => 'Медиатека',
+  'uploads' => 'Загрузить',
+  'stock' => 'Стоковые фотографии',
+  'gifs' => 'GIFs',
+  'library' => 'Библиотека',
+  'create_post' => 'Создать пост',
+  'delete_media' => 'Удалить медиа',
+  'do_you_want_delete' => 'Вы уверены, что хотите удалить выбранные медиаэлементы?',
+  'add_media' => 'Добавить медиа',
+  'downloading' => 'Загрузка...',
+  'no_gifs_found' => 'GIF-файлы не найдены.',
+  'click_configure' => 'Нажмите, чтобы настроить',
+  'no_images_found' => 'Изображения не найдены.',
+  'drag_drop_files' => 'Перетащите сюда файлы или',
+  'error_uploading_media' => 'Ошибка при загрузке медиафайлов.',
+  'error_retrieving_media' => 'Ошибка при извлечении носителя. Попробуйте еще раз!',
+  'error_downloading_media' => 'Ошибка при загрузке медиафайлов. Попробуйте еще раз!',
+  'error_deleting_media' => 'Ошибка при удалении носителя. Попробуйте еще раз!',
+  'author' => 'Автор',
+  'image_source' => 'Источник изображения',
+  'aspect_ratio_range' => 'Соотношение сторон должно быть между :min и :max.',
+  'resolution_range' => 'Разрешение должно быть не менее :min x :max px. Рекомендуется :recommended_min x :recommended_max px.',
+  'duration_range' => 'Продолжительность должна составлять от :min до :max секунд.',
+  'frame_rate_range' => 'Частота кадров должна быть в диапазоне от :min до :max кадров в секунду.',
+];

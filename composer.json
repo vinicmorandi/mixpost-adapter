@@ -1,0 +1,74 @@
+{
+    "name": "sagui-ai/mixpost-adapter",
+    "description": "Adapter for mixpost",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SaguiAi\\MixpostAdapter\\": "src/",
+            "SaguiAi\\MixpostAdapter\\Database\\Factories\\": "database/factories"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "SaguiAi\\MixpostAdapter\\Tests\\": "tests"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vinícius Morandi",
+            "email": "vinicius@onlycontrol.io",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "ext-fileinfo": "*",
+        "abraham/twitteroauth": "^4.0",
+        "bacon/bacon-qr-code": "^2.0",
+        "guzzlehttp/guzzle": "^7.8",
+        "inertiajs/inertia-laravel": "*",
+        "intervention/image": "^2.7",
+        "laravel/horizon": "^5.0",
+        "php-ffmpeg/php-ffmpeg": "^1.0",
+        "pragmarx/google2fa": "^8.0",
+        "spatie/laravel-package-tools": "^1.14",
+        "spatie/temporary-directory": "^2.1",
+        "tightenco/ziggy": "1.*"
+    },
+    "require-dev": {
+        "laradumps/laradumps": "^2.1",
+        "nunomaduro/collision": "^6.0",
+        "orchestra/testbench": "^7.0",
+        "pestphp/pest": "^1.21",
+        "pestphp/pest-plugin-faker": "^1.0",
+        "pestphp/pest-plugin-laravel": "^1.1",
+        "phpstan/extension-installer": "^1.1",
+        "phpstan/phpstan-deprecation-rules": "^1.0",
+        "phpstan/phpstan-phpunit": "^1.0",
+        "phpunit/phpunit": "^9.5"
+    },
+    "extra": {
+        "laravel": {
+            "dont-discover": [],
+            "providers": [
+                "SaguiAi\\MixpostAdapter\\MixpostServiceProvider"
+            ]
+        }
+    },
+    "scripts": {
+        "analyse": "vendor/bin/phpstan analyse",
+        "test": "vendor/bin/pest",
+        "test-coverage": "vendor/bin/pest --coverage",
+        "format": "vendor/bin/pint"
+    },
+    "config": {
+        "sort-packages": true,
+        "allow-plugins": {
+            "pestphp/pest-plugin": true,
+            "phpstan/extension-installer": true
+        }
+    }
+}

@@ -1,0 +1,28 @@
+<?php
+
+return [
+  'media_library' => 'Biblioteca media',
+  'uploads' => 'Încărcați',
+  'stock' => 'Fotografii de stoc',
+  'gifs' => 'GIF-uri',
+  'library' => 'Biblioteca',
+  'create_post' => 'Creați un post',
+  'delete_media' => 'Ștergeți conținut media',
+  'do_you_want_delete' => 'Sunteți sigur că doriți să ștergeți elementele media selectate?',
+  'add_media' => 'Adăugați media',
+  'downloading' => 'Se descarcă...',
+  'no_gifs_found' => 'Nu s-au găsit GIF-uri.',
+  'click_configure' => 'Faceți clic pentru a configura',
+  'no_images_found' => 'Nu s-au găsit imagini.',
+  'drag_drop_files' => 'Trageți și plasați fișierele aici sau',
+  'error_uploading_media' => 'Eroare la încărcarea conținutului media.',
+  'error_retrieving_media' => 'Eroare la afișarea conținutului media. Încercați din nou!',
+  'error_downloading_media' => 'Eroare la descărcarea conținutului media. Încercați din nou!',
+  'error_deleting_media' => 'Eroare la ștergerea conținutului media. Încercați din nou!',
+  'author' => 'Autor',
+  'image_source' => 'Sursa imaginii',
+  'aspect_ratio_range' => 'Raportul de aspect trebuie să fie între :min și :max.',
+  'resolution_range' => 'Rezoluția trebuie să fie de minimum :min x :max px. Recomandată este :recommended_min x :recommended_max px.',
+  'duration_range' => 'Durata trebuie să fie cuprinsă între :min și :max secunde.',
+  'frame_rate_range' => 'Rata de cadre trebuie să fie între :min și :max cadre pe secundă.',
+];

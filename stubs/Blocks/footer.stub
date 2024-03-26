@@ -1,0 +1,15 @@
+<hr>
+<p>
+  <br>
+</p>
+<p style="text-align: center">
+  <a target="_self" rel="noopener noreferrer nofollow" href="{{PrivacyUrl}}">
+    <strong>Privacy</strong>
+  </a>
+</p>
+<p style="text-align: center">
+  <a target="_self" rel="noopener noreferrer nofollow" href="{{TermsUrl}}">
+    <strong>Terms Of Use</strong>
+  </a>
+</p>
+<p style="text-align: center">All rights reserved. {{YourBrandName}}</p>

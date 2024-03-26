@@ -1,0 +1,25 @@
+<?php
+
+return [
+  'add_user' => 'Añadir usuario',
+  'team' => 'Equipo',
+  'add_user_workspace' => 'Añadir un nuevo usuario a este espacio de trabajo',
+  'edit_role_for' => 'Editar rol para',
+  'change_role' => 'Cambiar rol',
+  'can_edit_everything' => 'Puede acceder a todo el espacio de trabajo y editarlo',
+  'edit_exceptions' => 'Puede acceder y editar todo excepto la sección de configuración.',
+  'user_attached' => 'Usuario adjunto',
+  'attach_user' => 'Adjuntar usuario',
+  'user_detached' => 'Usuario desvinculado',
+  'role_updated' => 'Rol actualizado',
+  'role' => 'Rol',
+  'edit_role' => 'Editar rol',
+  'edit_role_on' => ' Editar rol en',
+  'attach' => 'Adjuntar',
+  'attached_at' => 'Adjunto en',
+  'detach_workspace' => 'Separar el espacio de trabajo',
+  'attach_workspace' => 'Adjuntar espacio de trabajo',
+  'detach_confirm' => '¿Estás seguro de que quieres separar <strong>:user</strong> de <strong>:workspace</strong>?',
+  'admin' => 'Admin',
+  'member' => 'Miembro',
+];

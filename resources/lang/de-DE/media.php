@@ -1,0 +1,28 @@
+<?php
+
+return [
+  'media_library' => 'Mediathek',
+  'uploads' => 'Hochladen',
+  'stock' => 'Archiv-Fotos',
+  'gifs' => 'GIFs',
+  'library' => 'Bibliothek',
+  'create_post' => 'Beitrag erstellen',
+  'delete_media' => 'Medien löschen',
+  'do_you_want_delete' => 'Sind Sie sicher, dass Sie die ausgewählten Medienelemente löschen möchten?',
+  'add_media' => 'Medien hinzufügen',
+  'downloading' => 'Herunterladen...',
+  'no_gifs_found' => 'Keine GIFs gefunden.',
+  'click_configure' => 'Klicken Sie zum Konfigurieren',
+  'no_images_found' => 'Keine Bilder gefunden.',
+  'drag_drop_files' => 'Ziehen Sie Dateien per Drag & Drop hierher, oder',
+  'error_uploading_media' => 'Fehler beim Hochladen von Medien.',
+  'error_retrieving_media' => 'Fehler beim Abrufen von Medien. Versuchen Sie es erneut!',
+  'error_downloading_media' => 'Fehler beim Herunterladen von Medien. Versuchen Sie es erneut!',
+  'error_deleting_media' => 'Fehler beim Löschen von Medien. Versuchen Sie es erneut!',
+  'author' => 'Autor',
+  'image_source' => 'Bildquelle',
+  'aspect_ratio_range' => 'Das Seitenverhältnis muss zwischen :min und :max liegen.',
+  'resolution_range' => 'Die Auflösung muss mindestens :min x :max px betragen. Empfohlen ist :recommended_min x :recommended_max px.',
+  'duration_range' => 'Die Dauer muss zwischen :min und :max Sekunden liegen.',
+  'frame_rate_range' => 'Die Bildrate muss zwischen :min und :max Bildern pro Sekunde liegen.',
+];

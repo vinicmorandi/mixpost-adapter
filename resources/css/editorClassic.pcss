@@ -1,0 +1,73 @@
+.editorClassic {
+    h1 {
+        font-size: 2em;
+    }
+
+    h2 {
+        font-size: 1.5em;
+    }
+
+    h3 {
+        font-size: 1.17em;
+    }
+
+    h4 {
+        font-size: 1em;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        @apply m-0 leading-normal mb-md;
+    }
+
+    p:empty {
+        @apply block;
+    }
+
+    blockquote {
+        @apply border-l-4 border-black pl-md italic;
+
+        p {
+            @apply mb-0;
+        }
+    }
+
+    li > p,
+    li > ol,
+    li > ul {
+        margin: 0;
+    }
+
+    ul, ol {
+        @apply pl-4 ml-4;
+    }
+
+    ol {
+        @apply list-decimal;
+    }
+
+    ul {
+        @apply list-disc;
+    }
+
+    img {
+        @apply max-w-full inline-block leading-none;
+    }
+
+    .ProseMirror>*+* {
+        margin-top: 0.75em;
+    }
+}
+
+.editor-classic-menu {
+    button {
+        @apply py-0.5 px-1 rounded-md transition-colors ease-in-out duration-200;
+
+        &:hover {
+            @apply bg-primary-50;
+        }
+
+        &.is-active {
+            @apply bg-primary-500 text-white;
+        }
+    }
+}

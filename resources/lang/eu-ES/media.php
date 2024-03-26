@@ -1,0 +1,28 @@
+<?php
+
+return [
+  'media_library' => 'Mediateka',
+  'uploads' => 'Kargatu',
+  'stock' => 'Stock argazkiak',
+  'gifs' => 'GIFak',
+  'library' => 'Liburutegia',
+  'create_post' => 'Sortu argitalpena',
+  'delete_media' => 'Ezabatu multimedia',
+  'do_you_want_delete' => 'Ziur hautatutako multimedia-elementuak ezabatu nahi dituzula?',
+  'add_media' => 'Gehitu multimedia',
+  'downloading' => 'Deskargatzen...',
+  'no_gifs_found' => 'Ez da GIFrik aurkitu.',
+  'click_configure' => 'Egin klik konfiguratzeko',
+  'no_images_found' => 'Ez da irudirik aurkitu.',
+  'drag_drop_files' => 'Arrastatu eta jaregin fitxategiak hemen, edo',
+  'error_uploading_media' => 'Errore bat gertatu da multimedia kargatzean.',
+  'error_retrieving_media' => 'Errore bat gertatu da multimedia berreskuratzean. Saiatu berriro!',
+  'error_downloading_media' => 'Errore bat gertatu da multimedia deskargatzean. Saiatu berriro!',
+  'error_deleting_media' => 'Errore bat gertatu da multimedia ezabatzean. Saiatu berriro!',
+  'author' => 'Egilea',
+  'image_source' => 'Irudiaren iturria',
+  'aspect_ratio_range' => 'Aspektu-erlazioak :min eta :max artean egon behar du.',
+  'resolution_range' => 'Ebazpenak gutxienez :min x :max px izan behar du. :recommended_min x :recommended_max px-koa da gomendatua.',
+  'duration_range' => 'Iraupena :min eta :max segundo artekoa izan behar du.',
+  'frame_rate_range' => 'Fotograma-abiadura segundoko :min eta :max fotograma artekoa izan behar du.',
+];

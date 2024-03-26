@@ -1,0 +1,28 @@
+<?php
+
+return [
+  'media_library' => 'مكتبة الوسائط',
+  'uploads' => 'تحميل',
+  'stock' => 'مخزون الصور',
+  'gifs' => 'صور GIF',
+  'library' => 'المكتبة',
+  'create_post' => 'إنشاء منشور',
+  'delete_media' => 'حذف الوسائط',
+  'do_you_want_delete' => 'هل أنت متأكد أنك تريد حذف عناصر الوسائط المحددة؟',
+  'add_media' => 'أضف الوسائط',
+  'downloading' => 'جارى التحميل...',
+  'no_gifs_found' => 'لم يتم العثور على ملفات GIF.',
+  'click_configure' => 'اضغط هنا للتنصيب',
+  'no_images_found' => 'لم يتم العثور على الصور.',
+  'drag_drop_files' => 'قم بسحب وإفلات الملفات هنا، أو',
+  'error_uploading_media' => 'حدث خطأ أثناء تحميل الوسائط.',
+  'error_retrieving_media' => 'حدث خطأ أثناء استرداد الوسائط. حاول ثانية!',
+  'error_downloading_media' => 'حدث خطأ أثناء تنزيل الوسائط. حاول ثانية!',
+  'error_deleting_media' => 'حدث خطأ أثناء حذف الوسائط. حاول ثانية!',
+  'author' => 'الكاتب',
+  'image_source' => 'مصدر الصورة',
+  'aspect_ratio_range' => 'يجب أن تكون نسبة العرض إلى الارتفاع بين :min و:max.',
+  'resolution_range' => 'يجب أن يكون الحد الأدنى للدقة :min × :max بكسل. يوصى بـ :recommended_min x :recommended_max بكسل.',
+  'duration_range' => 'يجب أن تتراوح المدة بين :min و:max ثانية.',
+  'frame_rate_range' => 'يجب أن يكون معدل الإطارات بين :min و:max إطارًا في الثانية.',
+];

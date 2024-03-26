@@ -1,0 +1,28 @@
+<?php
+
+return [
+  'media_library' => 'Libreria multimediale',
+  'uploads' => 'Caricamento',
+  'stock' => 'Foto d\'archivio',
+  'gifs' => 'GIF',
+  'library' => 'Libreria',
+  'create_post' => 'Crea messaggio',
+  'delete_media' => 'Elimina media',
+  'do_you_want_delete' => 'Sei sicuro di voler eliminare gli elementi multimediali selezionati?',
+  'add_media' => 'Aggiungi contenuti multimediali',
+  'downloading' => 'Download in corso...',
+  'no_gifs_found' => 'Nessuna GIF trovata.',
+  'click_configure' => 'Fare clic per configurare',
+  'no_images_found' => 'Nessuna immagine trovata.',
+  'drag_drop_files' => 'Trascina e rilascia i file qui oppure',
+  'error_uploading_media' => 'Errore durante il caricamento dei contenuti multimediali.',
+  'error_retrieving_media' => 'Errore durante il recupero del file multimediale. Riprova!',
+  'error_downloading_media' => 'Errore durante il download del file multimediale. Riprova!',
+  'error_deleting_media' => 'Errore durante l\'eliminazione del fime multimediale. Riprova!',
+  'author' => 'Autore',
+  'image_source' => 'Fonte dell\'immagine',
+  'aspect_ratio_range' => 'Le proporzioni devono essere comprese tra :min e :max.',
+  'resolution_range' => 'La risoluzione deve essere almeno di :min x :max px. Il formato consigliato è :recommended_min x :recommended_max px.',
+  'duration_range' => 'La durata deve essere compresa tra :min e :max secondi.',
+  'frame_rate_range' => 'La frequenza fotogrammi deve essere compresa tra :min e :max fotogrammi al secondo.',
+];

@@ -1,0 +1,26 @@
+<?php
+
+return [
+  'accounts' => 'Sare sozial kontuak',
+  'account_updated' => 'Kontua eguneratu da',
+  'account_reauthenticate' => 'Ezin da kontua eguneratu. Berriro autentifikatu zure kontua.',
+  'connect_social_account' => 'Konektatu kudeatu nahi duzun sare sozial bat.',
+  'account_deleted' => 'Kontua ezabatu da',
+  'add_account' => 'Gehitu kontua | Gehitu kontuak',
+  'edit_suffix' => 'Editatu atzizkia',
+  'edit_account_suffix' => 'Editatu kontuaren atzizkia',
+  'enter_suffix' => 'Sartu atzizkia',
+  'added' => 'Gehituta:',
+  'delete_account' => 'Ezabatu kontua',
+  'confirm_delete_account' => 'Ziur zaude kontu hau ezabatu nahi duzula?',
+  'account_not_updated' => 'Ezin da kontua eguneratu.',
+  'account_no_entities' => 'Kontuak ez du entitaterik.',
+  'choose_entity' => 'Aukeratu entitatea',
+  'account_entities' => 'Kontu-entitateak',
+  'select_the_social_entities' => 'Hautatu konektatu nahi dituzun gizarte-entitateak',
+  'connected' => 'Konektatuta',
+  'choose' => 'Aukeratu',
+  'access_token_expired' => 'Sarbide-tokena iraungi da. Konektatu berriro zure kontua.',
+  'unauthorized' => 'Baimenik gabe',
+  'add_social_account' => 'Ez duzu kontu sozialik, gehitu gutxienez bat.',
+];
